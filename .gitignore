@@ -8,10 +8,6 @@
 .swiftpm/
 Package.resolved
 
-# App bundles & packaging output
-dist/
-*.zip
-
 # Xcode user data
 xcuserdata/
 *.xcuserstate
