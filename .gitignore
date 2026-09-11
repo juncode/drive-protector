@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# SwiftPM build artifacts
+.build/
+.swiftpm/
+Package.resolved
+
+# App bundles & packaging output
+dist/
+*.zip
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
